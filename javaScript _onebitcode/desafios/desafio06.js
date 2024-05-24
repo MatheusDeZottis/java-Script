@@ -1,0 +1,1 @@
+/* Escreva um programa javaScript que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10. */
